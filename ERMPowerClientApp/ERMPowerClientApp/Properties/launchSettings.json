@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ERMPowerClientApp": {
+      "commandName": "Project",
+      "commandLineArgs": "-f \"C:\\Test\\TOU3.csv\" -t TOU"
+    }
+  }
+}
